@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date: 21/09/2025
+# Date: 24/09/2025
 ## Register Number: 25004079
 ## Name: Mohamed Hafees R
 ## Problem Title
@@ -54,22 +54,10 @@ The AgriMate solution will be developed using React Native or Flutter for cross-
 The implementation follows a step-by-step methodology. First, data collection and preprocessing gathers soil types, crop information, pest/disease images, weather data, and market prices. Next, AI models for pest and disease detection are trained and optimized for mobile deployment. The frontend is developed to include multilingual and voice support, a farm diary, and advisory dashboards. Backend services and API integration handle data storage, weather/market APIs, and AI inference requests. Offline and voice functionality are implemented to support low-literacy users. After testing and iteration with farmer feedback, the system is deployed with a continuous learning loop to improve AI recommendations over time.
 
 flowchat:
-                              Farmer Input (Crop, Soil, Image) 
-                                           │
-                                           ▼
-                                Preprocessing & Validation
-                                           │
-                                           ▼
-                              AI Inference (Pest Detection)
-                                           │
-                                           ▼
-                Soil/Fertilizer Recommendation + Weather Alerts + Market Prices
-                                           │
-                                           ▼
-                     Multilingual Chat/Voice Advisory Delivered to Farmer
-                                           │
-                                           ▼
-                  Feedback & Farm Diary Updated → Continuous Learning Loop
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/62e57130-6370-4fc1-96d0-b5bd6e5c953c" />
+
+architecture diagram:
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/d4efb4c3-c2e2-455e-8a44-b6ee69a793f5" />
 
 
 
